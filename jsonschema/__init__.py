@@ -28,5 +28,5 @@ from jsonschema.validators import (
     validate,
 )
 
-import importlib_metadata
-__version__ = importlib_metadata.version("jsonschema")
+# import importlib_metadata
+# __version__ = importlib_metadata.version("jsonschema")
